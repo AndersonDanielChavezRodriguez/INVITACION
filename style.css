@@ -1,0 +1,66 @@
+*{
+    font-family: 'Belanosima', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+::-webkit-scrollbar{
+    width: 0;
+}
+
+body{
+    background: linear-gradient(90deg, rgba(0,46,255,1) 22%, rgba(0,114,255,1) 46%, rgba(0,179,255,1) 74%, rgba(0,212,255,1) 92%);
+}
+
+.title{
+    text-align: center;
+    margin: 20px;
+    font-size: 50px;
+}
+
+.contain{
+    text-align: center;
+    margin: auto;
+    width: 300px;
+    height: 300px;
+}
+
+.direc{
+    padding: 15px;
+}
+
+.f_abajo{
+    margin: 15px 0px; 
+    width: 80px;
+    height: 80px;
+}
+
+#carta{
+    background: transparent;
+    border: none;
+    opacity: 1;
+}
+
+.carta{
+    width: 300px;
+    border-radius: 25px;
+}
+
+#mensaje{
+    background: transparent;
+    border: none;
+    opacity: 0;
+}
+
+.mensaje{
+    border-radius: 20px;
+    width: 300px;
+    height: 400px ;
+}
+
+.container{
+    background: transparent;
+    font-size: 20px;
+}
+
