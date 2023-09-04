@@ -14,12 +14,14 @@ body{
 }
 
 .title{
+    color: rgba(0,212,255,1);
     text-align: center;
     margin: 20px;
     font-size: 50px;
 }
 
 .contain{
+    color: rgba(0,212,255,1);
     text-align: center;
     margin: auto;
     width: 300px;
@@ -31,6 +33,7 @@ body{
 }
 
 .f_abajo{
+    color: rgba(0,212,255,1);
     margin: 15px 0px; 
     width: 80px;
     height: 80px;
